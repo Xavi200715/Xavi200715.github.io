@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+  color:purple;
+  background-image: url("Grace-Hopper.jpg");
+  background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+}
+p {
+  background-color: black;
+  color: purple;
+}
